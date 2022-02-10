@@ -9,7 +9,6 @@
 - Defense
 - Magik
 
-
 **All character starts at level 1 with :**
 - Skill points : 12
 - Health : 10
